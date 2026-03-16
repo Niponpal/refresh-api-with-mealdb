@@ -4,13 +4,13 @@ const Hero = () => {
             className="hero min-h-screen"
             style={{
                 backgroundImage:
-                    "url(https://img.daisyui.com/images/stock/photo-1507358522600-9f71e620c44e.webp)",
+                    "url(https://i.ibb.co.com/XxR2Gknb/photo-1537047902294-62a40c20a6ae-w-600-auto-format-fit-crop-q-60-ixlib-rb-4-1.jpg)",
             }}
         >
             <div className="hero-overlay"></div>
             <div className="hero-content text-neutral-content text-center">
                 <div className="max-w-md">
-                    <h1 className="mb-5 text-5xl font-bold">Hello there</h1>
+                    <h1 className="mb-5 text-5xl font-bold">Hello Customers</h1>
                     <p className="mb-5">
                         Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem
                         quasi. In deleniti eaque aut repudiandae et a id nisi.
