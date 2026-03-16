@@ -17,7 +17,7 @@ const Hero = () => {
                         people together. Come with family or friends and experience taste,
                         comfort, and hospitality in every bite.
                     </p>
-                    <button className="btn btn-primary">Explore Our Menu</button>
+                    <button className="btn btn-outline">Explore Our Menu</button>
                 </div>
             </div>
         </div>
