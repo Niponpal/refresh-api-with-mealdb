@@ -12,7 +12,7 @@ const Hero = () => {
                 <div className="max-w-md">
                     <h1 className="mb-5 text-5xl font-bold">Welcome to Our Restaurant</h1>
                     <p className="mb-5">
-                        Enjoy delicious, freshly prepared meals made with the finest ingredients.
+                        change the content, freshly prepared meals made with the finest ingredients.
                         From traditional favorites to modern flavors, we serve food that brings
                         people together. Come with family or friends and experience taste,
                         comfort, and hospitality in every bite.
