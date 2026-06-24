@@ -19,9 +19,9 @@ const Navbar = () => {
                             className="menu menu-sm dropdown-content mt-3 z-1 p-3 shadow bg-black/90 rounded-box w-52 space-y-2"
                         >
                             <li><a className="hover:text-primary">Home</a></li>
-                            <li><a className="hover:text-primary">About change</a></li>
-                            <li><a className="hover:text-primary">Menu also change for menu</a></li>
-                            <li><a className="hover:text-primary">Contact</a></li>
+                            <li><a className="hover:text-primary">About</a></li>
+                            <li><a className="hover:text-primary">Menu</a></li>
+                            <li><a className="hover:text-primary">Contact us</a></li>
                         </ul>
                     </div>
 
