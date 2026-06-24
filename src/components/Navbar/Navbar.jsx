@@ -20,7 +20,7 @@ const Navbar = () => {
                         >
                             <li><a className="hover:text-primary">Home</a></li>
                             <li><a className="hover:text-primary">About change</a></li>
-                            <li><a className="hover:text-primary">Menu</a></li>
+                            <li><a className="hover:text-primary">Menu also change for menu</a></li>
                             <li><a className="hover:text-primary">Contact</a></li>
                         </ul>
                     </div>
