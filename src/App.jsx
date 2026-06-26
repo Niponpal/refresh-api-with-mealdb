@@ -9,7 +9,6 @@ function App() {
     <>
       <div>
         <Navbar></Navbar>
-        <h1>here is the middlest part</h1>
         <Hero></Hero>
       </div>
     </>
