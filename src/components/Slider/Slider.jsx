@@ -9,7 +9,7 @@ const slides = [
   },
   {
     id: 2,
-    title: "Best Quality Products",
+    title: "Best Quality Products here",
     desc: "We ensure top quality for our customers.",
     image: "https://picsum.photos/id/1015/1000/600",
   },
