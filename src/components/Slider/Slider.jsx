@@ -15,7 +15,7 @@ const slides = [
   },
   {
     id: 3,
-    title: "Fast Delivery",
+    title: "Fast Delivery needed",
     desc: "Get your order delivered quickly.",
     image: "https://picsum.photos/id/1019/1000/600",
   },
