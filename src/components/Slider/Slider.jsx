@@ -30,6 +30,7 @@ const Slider = () => {
       setCurrent((prev) => (prev + 1) % slides.length);
     }, 3000);
 
+    const para = 2;
     return () => clearInterval(interval);
   }, []);
 
