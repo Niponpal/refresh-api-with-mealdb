@@ -20,7 +20,7 @@ const slides = [
     image: "https://picsum.photos/id/1019/1000/600",
   },
 ];
-let data = 67;
+
 
 const Slider = () => {
   const [current, setCurrent] = useState(0);
