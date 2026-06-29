@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 const slides = [
   {
     id: 1,
-    title: "Welcome to Our Aura",
+    title: "Welcome to Our a",
     desc: "Discover amazing products and deals.",
     image: "https://picsum.photos/id/1018/1000/600",
   },
