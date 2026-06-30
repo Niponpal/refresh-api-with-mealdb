@@ -11,7 +11,7 @@ const Card = ({ image, title, description, price }) => {
 
       {/* Content */}
       <div className="p-4">
-        <h2 className="text-xl font-semibold mb-2">{title}</h2>
+        <h2 className="text-xl font-semibold mb-2">Title is Here</h2>
         <p className="text-gray-600 text-sm mb-3">{description}</p>
 
         {/* Price + Button */}
