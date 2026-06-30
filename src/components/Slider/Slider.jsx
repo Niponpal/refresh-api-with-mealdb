@@ -46,6 +46,7 @@ const Slider = () => {
     );
   };
 
+  const vaeri = 89;
   return (
     <div className="relative w-full h-100 overflow-hidden rounded-xl">
       
