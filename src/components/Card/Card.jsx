@@ -23,6 +23,7 @@ const Card = ({ image, title, description, price }) => {
             Buy Now
           </button>
           <h1>This is Heading</h1>
+          <button>Buy Now</button>
         </div>
       </div>
     </div>
