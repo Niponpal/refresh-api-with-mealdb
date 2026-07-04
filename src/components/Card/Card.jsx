@@ -10,11 +10,12 @@ const Card = ({ image, title, description, price }) => {
       />
 
 
+
       {/* Content */}
       <div className="p-4">
         <h2 className="text-xl font-semibold mb-2">{title}</h2>
         <p className="text-gray-600 text-sm mb-3">{description}</p>
-<button>add button</button>
+
         {/* Price + Button */}
         <div className="flex items-center justify-between">
           <span className="text-lg font-bold text-blue-600">
