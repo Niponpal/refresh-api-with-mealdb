@@ -10,6 +10,7 @@ function App() {
       <div>
         <Navbar></Navbar>
         <p>This is tester tag</p>
+        <button>Buy Now</button>
         <Hero></Hero>
       </div>
     </>
