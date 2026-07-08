@@ -9,6 +9,7 @@ function App() {
     <>
       <div>
         <Navbar></Navbar>
+        <p>This is tester tag</p>
         <Hero></Hero>
       </div>
     </>
