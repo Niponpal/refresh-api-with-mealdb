@@ -36,7 +36,7 @@ const Footer = () => {
 
       {/* Bottom */}
       <div className="text-center text-sm mt-8 border-t border-gray-700 pt-4">
-        © {new Date().getFullYear()} YourBrand. All rights reserved.
+        © {new Date().getFullYear()} YourBrand. All reserved.
       </div>
     </footer>
   );
