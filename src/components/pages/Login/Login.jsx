@@ -5,7 +5,7 @@ const Login = () => {
     email: "",
     password: "",
   });
-const data =  "someting";
+
   const handleChange = (e) => {
     setForm({
       ...form,
