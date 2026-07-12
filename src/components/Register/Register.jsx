@@ -38,7 +38,7 @@ const Register = () => {
         />
 
         <input
-          type="email"
+          type="password"
           name="email"
           placeholder="Email"
           value={formData.email}
