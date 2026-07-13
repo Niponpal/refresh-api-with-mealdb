@@ -25,7 +25,7 @@ const Register = () => {
         onSubmit={handleSubmit}
         className="bg-white p-6 rounded-lg shadow-md w-80"
       >
-        <h2 className="text-2xl font-bold mb-4 text-right">Register</h2>
+        <h2 className="text-2xl font-bold mb-4 text-right">Register Here</h2>
 
         <input
           type="text"
