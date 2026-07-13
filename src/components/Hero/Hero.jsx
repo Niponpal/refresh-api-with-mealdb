@@ -24,7 +24,7 @@ const Hero = () => {
                     </h1>
 
                     <p className="mb-2 text-lg md:text-xl text-gray-200">
-                        Freshly prepared meals made
+                        Freshly prepared meals made with
                     </p>
 
                     <p className="mb-6 text-sm md:text-base text-gray-300">
