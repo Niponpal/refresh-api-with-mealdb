@@ -74,7 +74,7 @@ const Navbar = () => {
                     </button>
 
                     <button className="btn btn-primary btn-sm px-5 hover:scale-105 transition">
-                        Order Now Here
+                        Order Now
                     </button>
 
                 </div>
