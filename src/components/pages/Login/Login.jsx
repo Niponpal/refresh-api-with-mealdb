@@ -18,11 +18,6 @@ const Login = () => {
     console.log("Login Data:", form);
 
   };
-  const handleSubmit = (e) => {
-    e.preventDefault();
-    console.log("Login Data:", form);
-
-  };
 
   return (
     <div className="flex items-center justify-center min-h-screen bg-gray-100">
