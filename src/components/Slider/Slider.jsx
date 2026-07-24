@@ -59,7 +59,7 @@ const Slider = () => {
         >
           <img
             src={slide.image}
-            alt={slide.title}
+            alt={slide.content}
             className="w-full h-full object-cover"
           />
 
