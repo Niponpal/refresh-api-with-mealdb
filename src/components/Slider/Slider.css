@@ -1,3 +1,7 @@
 p {
     color: red;
+    background: gray;
+    outline: none;
+    padding: 1rem;
+    border-radius: 2px;
 }
