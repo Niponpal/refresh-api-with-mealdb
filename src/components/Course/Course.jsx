@@ -8,6 +8,8 @@ const Course = () => {
         <li>CSS</li>
         <li>Javascript</li>
         <li>Tailwind</li>
+        <li>Typescript</li>
+        <li>PostgreSql</li>
       </ul>
     </div>
   );
