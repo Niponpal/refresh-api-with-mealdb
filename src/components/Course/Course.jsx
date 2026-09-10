@@ -11,7 +11,7 @@ const Course = () => {
         <li>Typescript</li>
         <li>PostgreSql</li>
         <li>Prisma</li>
-        <li>MongoDB</li>
+        <li>NextJs</li>
       </ul>
     </div>
   );
