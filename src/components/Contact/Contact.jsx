@@ -7,7 +7,7 @@ const Contact = () => {
         <div className="flex flex-col justify-center">
           <h2 className="text-3xl font-bold mb-4">Contact Us</h2>
           <p className="text-gray-600 mb-6">
-            Have any questions or need help? Feel free to reach out to us anytime.
+            Have any questions or need help? Feel free to reach out to us anytime here.
           </p>
 
           <div className="space-y-3">
