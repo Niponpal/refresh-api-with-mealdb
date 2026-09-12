@@ -9,9 +9,6 @@ const Course = () => {
         <li>Javascript</li>
         <li>Tailwind</li>
         <li>Typescript</li>
-        <li>PostgreSql</li>
-        <li>Prisma</li>
-        <li>NextJs</li>
       </ul>
     </div>
   );
