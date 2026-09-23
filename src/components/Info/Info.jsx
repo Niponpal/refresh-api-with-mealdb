@@ -3,6 +3,7 @@ const Info = () => {
     <div>
       <h1>This is imfo Component here</h1>
 <h2>This is info comp subtitle</h2>
+<h2>This is info comp subtitle new</h2>
     </div>
   );
 };
